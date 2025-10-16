@@ -1,4 +1,4 @@
-AI-Powered Mock Interview Platform
+Devgent AI
 Description
 
 This is an advanced and interactive AI-powered mock interview platform designed to help job seekers practice and enhance their interview skills. Built with Next.js, Tailwind CSS, Gemini API, PostgreSQL, and Drizzle ORM, it provides an engaging and realistic interview experience, helping users improve their chances of landing their dream job.
@@ -79,9 +79,9 @@ Feedback
 
 If you have any feedback, feel free to reach out:
 
-Email: mohamedamaan319@gmail.com
+Email: naseemsayyad388@gmail.com
 
-LinkedIn: Mohammad Sami
+LinkedIn: https://www.linkedin.com/in/mohammadsami01/
 
 Contributing
 
@@ -99,4 +99,4 @@ Submit a pull request to the main repository.
 
 Support
 
-Show your support by ⭐ starring the project on GitHub: AI Mock Interview
+Show your support by ⭐ starring the project on GitHub:Devgent AI
